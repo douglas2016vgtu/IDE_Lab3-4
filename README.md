@@ -2,7 +2,9 @@
 This repository contains the code for the Integrated Development Environments course laboratory works 3 and 4 also known as second practical work.
 
 Instructions:
+
 Code uses a seperate class to handle student information and methods.
+
 
 1) The program generates a student file, the size is determined in the for loop "i < [some number i.e. 10000]." Comment-off the following code if you wish to test run time of program using functions that call for student list file:
 "//stud_list_generator();""
